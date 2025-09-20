@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&family=Itim&display=swap');
+
+body{
+
+}
+
+
+nav{
+    background-color: #1C1C1C;
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-size: 18px;
+}
+.nav-link{
+color: #FFFFFF;
+}
