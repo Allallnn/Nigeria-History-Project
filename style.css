@@ -15,7 +15,7 @@ nav{
 color: #FFFFFF;
 }
 
-a:hover{
+li a:hover{
 color: #C9CD1A;
 }
 
@@ -24,10 +24,4 @@ a{
     text-decoration: none;
     color: #FFFFFF;
     margin-left: 33px;
-}
-
-.image-div{
-    height: 50rem;
-    display: flex;
-    align-items: center;
 }
