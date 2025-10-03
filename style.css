@@ -50,6 +50,7 @@ h1 {
   font-size: 56px;
   font-weight: 400;
 }
+
 .Section-2 button {
   font-size: 20px;
 }
@@ -64,8 +65,14 @@ footer {
   align-items: center;
 }
 
-footer #div-1 img {
-  margin: 0 auto;
+footer #div-1 {
+  display: flex;
+  justify-content: center;
+}
+
+#footer-p {
+  display: flex;
+  justify-content: center;
 }
 
 footer #div-1 p {
@@ -80,10 +87,14 @@ footer #div-2 {
   justify-content: center;
   gap: 1.5rem;
 }
-footer p{
+
+footer p {
   font-family: "Itim", sans-serif;
 }
-#div-3 p{
+
+#div-3 {}
+
+#div-3 p {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -98,5 +109,15 @@ footer p{
 
   a {
     margin-left: 0;
+  }
+
+  footer p {
+    font-size: 22px;
+    font-family: "Itim", sans-serif;
+  }
+
+  #div-3 p {
+    font-size: 19px;
+
   }
 }
