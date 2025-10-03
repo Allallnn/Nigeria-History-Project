@@ -74,5 +74,5 @@ footer #div-1 p {
 footer #div-2 {
   display: flex;
   justify-content: center;
-  gap: 1rem;
+  gap: 1.5rem;
 }
